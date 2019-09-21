@@ -5,18 +5,17 @@ import Head from 'components/head';
 import Header from 'components/header';
 import GlobalStyle from 'global.css.js';
 
-const Layout = ({ data, children }) => (
+const Layout = ({ children }) => (
   <div>
     <GlobalStyle />
     <Head />
-    <Header title={data.site.siteMetadata.siteTitle} />
+    <Header />
     {children}
   </div>
 );
 
 Layout.propTypes = {
   children: PropTypes.node.isRequired,
-  data: PropTypes.object.isRequired,
 };
 
 const LayoutWithQuery = props => (

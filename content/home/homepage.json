@@ -1,19 +1,167 @@
 {
   "title": "Home",
   "content": "intro.md",
-  "gallery": [{
-    "title": "React Context",
-    "copy": "For global styles.",
-    "image": "../images/gallery/react-context.jpg"
+  "gallery": [
+  {
+    "title": "2fukdup-dnb-print-ready.jpg",
+    "image": "../images/gallery/2fukdup-dnb-print-ready.jpg"
   },
   {
-    "title": "Page Transitions",
-    "copy": "Component-based for easy usage.",
+    "title": "Splintered-Family_Vincent.jpg",
+    "image": "../images/gallery/Splintered-Family_Vincent.jpg"
+  },
+  {
+    "title": "Cold-Cars-and-Hot-Beers.jpg",
+    "image": "../images/gallery/Cold-Cars-and-Hot-Beers.jpg"
+  },
+  {
+    "title": "Stoic-AF.jpg",
+    "image": "../images/gallery/Stoic-AF.jpg"
+  },
+  {
+    "title": "Creature-Choir-Cassette-Design.jpg",
+    "image": "../images/gallery/Creature-Choir-Cassette-Design.jpg"
+  },
+  {
+    "title": "Swan-Armor.jpg",
+    "image": "../images/gallery/Swan-Armor.jpg"
+  },
+  {
+    "title": "Creatures-Choir-Album-Cover.jpg",
+    "image": "../images/gallery/Creatures-Choir-Album-Cover.jpg"
+  },
+  {
+    "title": "Sweet-Dreams_Vincent.jpg",
+    "image": "../images/gallery/Sweet-Dreams_Vincent.jpg"
+  },
+  {
+    "title": "For-All-and-Nothing-half-size.jpg",
+    "image": "../images/gallery/For-All-and-Nothing-half-size.jpg"
+  },
+  {
+    "title": "Top-Sekoms-Tee-Design.jpg",
+    "image": "../images/gallery/Top-Sekoms-Tee-Design.jpg"
+  },
+  {
+    "title": "Ghost-Poster-no-BCN.jpg",
+    "image": "../images/gallery/Ghost-Poster-no-BCN.jpg"
+  },
+  {
+    "title": "Truck-side-1.jpg",
+    "image": "../images/gallery/Truck-side-1.jpg"
+  },
+  {
+    "title": "Hemorrhage-Album-Cover.jpg",
+    "image": "../images/gallery/Hemorrhage-Album-Cover.jpg"
+  },
+  {
+    "title": "Two-Sisters_Vincent.jpg",
+    "image": "../images/gallery/Two-Sisters_Vincent.jpg"
+  },
+  {
+    "title": "KTYD Ramen Sticker product image.jpg",
+    "image": "../images/gallery/KTYD Ramen Sticker product image.jpg"
+  },
+  {
+    "title": "ewkuks-Roshi-Daughter-Deck-smaller.jpg",
+    "image": "../images/gallery/ewkuks-Roshi-Daughter-Deck-smaller.jpg"
+  },
+  {
+    "title": "KTYD-Anitscetic-Poster.jpg",
+    "image": "../images/gallery/KTYD-Anitscetic-Poster.jpg"
+  },
+  {
+    "title": "ewkuks-Roshi-Daughter-Deck2-smaller.jpg",
+    "image": "../images/gallery/ewkuks-Roshi-Daughter-Deck2-smaller.jpg"
+  },
+  {
+    "title": "KTYD-Culture-Killer-Design.jpg",
+    "image": "../images/gallery/KTYD-Culture-Killer-Design.jpg"
+  },
+  {
+    "title": "ewkuks-Roshi-Father-Deck-smaller.jpg",
+    "image": "../images/gallery/ewkuks-Roshi-Father-Deck-smaller.jpg"
+  },
+  {
+    "title": "KTYD-Pipe-Dreams-Design.jpg",
+    "image": "../images/gallery/KTYD-Pipe-Dreams-Design.jpg"
+  },
+  {
+    "title": "ewkuks-Roshi-Father-Deck2-smaller.jpg",
+    "image": "../images/gallery/ewkuks-Roshi-Father-Deck2-smaller.jpg"
+  },
+  {
+    "title": "Kali-Pop-Poster-HW.jpg",
+    "image": "../images/gallery/Kali-Pop-Poster-HW.jpg"
+  },
+  {
+    "title": "ewkuks-Roshi-Mother-Deck-smaller.jpg",
+    "image": "../images/gallery/ewkuks-Roshi-Mother-Deck-smaller.jpg"
+  },
+  {
+    "title": "Lady-Guyver.JPG",
+    "image": "../images/gallery/Lady-Guyver.JPG"
+  },
+  {
+    "title": "ewkuks-Roshi-Mother-Deck2-smaller.jpg",
+    "image": "../images/gallery/ewkuks-Roshi-Mother-Deck2-smaller.jpg"
+  },
+  {
+    "title": "Little-Witch-color-small.jpg",
+    "image": "../images/gallery/Little-Witch-color-small.jpg"
+  },
+  {
+    "title": "intersection-observer.jpg",
+    "image": "../images/gallery/intersection-observer.jpg"
+  },
+  {
+    "title": "Lu-Gen-Voivode-Sticker-product-image.jpg",
+    "image": "../images/gallery/Lu-Gen-Voivode-Sticker-product-image.jpg"
+  },
+  {
+    "title": "lady-guyver-product-image.jpg",
+    "image": "../images/gallery/lady-guyver-product-image.jpg"
+  },
+  {
+    "title": "Numb.jpg",
+    "image": "../images/gallery/Numb.jpg"
+  },
+  {
+    "title": "lu-gen-voivode-IG.jpg",
+    "image": "../images/gallery/lu-gen-voivode-IG.jpg"
+  },
+  {
+    "title": "Paper-Hearts-IG-crop.jpg",
+    "image": "../images/gallery/Paper-Hearts-IG-crop.jpg"
+  },
+  {
+    "title": "page-transitions.jpg",
     "image": "../images/gallery/page-transitions.jpg"
   },
   {
-    "title": "Intersection Observer",
-    "copy": "Including a polyfill for Safari.",
-    "image": "../images/gallery/intersection-observer.jpg"
+    "title": "Purple-Crayon-cropped.jpg",
+    "image": "../images/gallery/Purple-Crayon-cropped.jpg"
+  },
+  {
+    "title": "react-context.jpg",
+    "image": "../images/gallery/react-context.jpg"
+  },
+  {
+    "title": "Quickie-for-Vans-Anniversary-edit.jpg",
+    "image": "../images/gallery/Quickie-for-Vans-Anniversary-edit.jpg"
+  },
+  {
+    "title": "truck-side-2.jpg",
+    "image": "../images/gallery/truck-side-2.jpg"
+  },
+  {
+    "title": "Roshi-Batbutt-Supermarket.jpg",
+    "image": "../images/gallery/Roshi-Batbutt-Supermarket.jpg"
+  },
+  {
+    "title": "ugly-ducklings.JPG",
+    "image": "../images/gallery/ugly-ducklings.JPG"
   }]
 }
+
+

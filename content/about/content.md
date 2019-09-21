@@ -1,21 +1,3 @@
-Find the repository [on GitHub](https://github.com/fabe/gatsby-universal).
+Roshi is a Los Angeles based artist who's childhood obsessions with nature, transformation, comics, animation, death, technology, and psychedelia, have spiraled into his current exploration of “The Floating World”. A place where the symbols, archetypes, and narratives of people's inner thoughts coalesce to reflect a dreamlike cloud of both illusion and identity, full of mystic travelers and bodhisattvic icons. This work beckons the curious viewer's yearning to understand symbol and story, but refrains from offering any concrete narrative. Though many possibilities may be apparent and inferred for onlookers, they are coaxed to follow cascades of interwoven details and flowing compositions to discover their own conclusions and feelings about an encapsulated message or intention. With the collaborative effort of the viewers' insights and speculation, the artwork is “charged” to become a powerful source of reflection and conversation within a community.
 
-```
-# Installation
-gatsby new my-site https://github.com/fabe/gatsby-universal
-
-# To develop
-yarn develop
-
-# To build
-yarn build
-
-# To test SSR (for Lighthouse etc.)
-yarn ssr
-
-# To format JS (precommit)
-yarn format
-
-# To generate favicons (included in `build`)
-yarn build:favicons
-```
+Currently, Roshi co-operates events with the “Hello Welcome” collective in Long Beach, Ca while continuing to produce paintings for exhibition and working as assistant/apprentice under the international mural artist Nychos in Los Angeles.

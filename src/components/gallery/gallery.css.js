@@ -9,6 +9,8 @@ export const Container = styled.div`
   margin: 2rem 0;
 
   ${MEDIA.TABLET`
-    display: block;
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-gap: 2rem;
   `};
 `;
