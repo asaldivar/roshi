@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   siteTitle: `Roshi`,
   siteTitleShort: `Roshi`,
-  siteDescription: `An opinionated starter for Gatsby.`,
+  siteDescription: `Enter The Floating World. Grafitti artist, Roshi's, portfolio site. `,
   siteUrl: `https://roshipaints.com`,
   themeColor: `#000`,
   backgroundColor: `#fff`,
