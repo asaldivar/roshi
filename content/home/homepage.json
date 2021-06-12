@@ -2,170 +2,131 @@
   "title": "Home",
   "content": "intro.md",
   "gallery": [
-  {
-    "title": "2fukdup-dnb-print-ready.jpg",
-    "image": "../images/gallery/2fukdup-dnb-print-ready.jpg"
-  },
-  {
-    "title": "coaster-study.jpeg",
-    "image": "../images/gallery/coaster-study.jpeg"
-  },
-  {
-    "title": "Splintered-Family_Vincent.jpg",
-    "image": "../images/gallery/Splintered-Family_Vincent.jpg"
-  },
-  {
-    "title": "Cold-Cars-and-Hot-Beers.jpg",
-    "image": "../images/gallery/Cold-Cars-and-Hot-Beers.jpg"
-  },
-  {
-    "title": "Stoic-AF.jpg",
-    "image": "../images/gallery/Stoic-AF.jpg"
-  },
-  {
-    "title": "Creature-Choir-Cassette-Design.jpg",
-    "image": "../images/gallery/Creature-Choir-Cassette-Design.jpg"
-  },
-  {
-    "title": "Swan-Armor.jpg",
-    "image": "../images/gallery/Swan-Armor.jpg"
-  },
-  {
-    "title": "Creatures-Choir-Album-Cover.jpg",
-    "image": "../images/gallery/Creatures-Choir-Album-Cover.jpg"
-  },
-  {
-    "title": "Sweet-Dreams_Vincent.jpg",
-    "image": "../images/gallery/Sweet-Dreams_Vincent.jpg"
-  },
-  {
-    "title": "For-All-and-Nothing-half-size.jpg",
-    "image": "../images/gallery/For-All-and-Nothing-half-size.jpg"
-  },
-  {
-    "title": "Top-Sekoms-Tee-Design.jpg",
-    "image": "../images/gallery/Top-Sekoms-Tee-Design.jpg"
-  },
-  {
-    "title": "Ghost-Poster-no-BCN.jpg",
-    "image": "../images/gallery/Ghost-Poster-no-BCN.jpg"
-  },
-  {
-    "title": "Truck-side-1.jpg",
-    "image": "../images/gallery/Truck-side-1.jpg"
-  },
-  {
-    "title": "Hemorrhage-Album-Cover.jpg",
-    "image": "../images/gallery/Hemorrhage-Album-Cover.jpg"
-  },
-  {
-    "title": "Two-Sisters_Vincent.jpg",
-    "image": "../images/gallery/Two-Sisters_Vincent.jpg"
-  },
-  {
-    "title": "KTYD Ramen Sticker product image.jpg",
-    "image": "../images/gallery/KTYD Ramen Sticker product image.jpg"
-  },
-  {
-    "title": "ewkuks-Roshi-Daughter-Deck-smaller.jpg",
-    "image": "../images/gallery/ewkuks-Roshi-Daughter-Deck-smaller.jpg"
-  },
-  {
-    "title": "KTYD-Anitscetic-Poster.jpg",
-    "image": "../images/gallery/KTYD-Anitscetic-Poster.jpg"
-  },
-  {
-    "title": "ewkuks-Roshi-Daughter-Deck2-smaller.jpg",
-    "image": "../images/gallery/ewkuks-Roshi-Daughter-Deck2-smaller.jpg"
-  },
-  {
-    "title": "KTYD-Culture-Killer-Design.jpg",
-    "image": "../images/gallery/KTYD-Culture-Killer-Design.jpg"
-  },
-  {
-    "title": "ewkuks-Roshi-Father-Deck-smaller.jpg",
-    "image": "../images/gallery/ewkuks-Roshi-Father-Deck-smaller.jpg"
-  },
-  {
-    "title": "KTYD-Pipe-Dreams-Design.jpg",
-    "image": "../images/gallery/KTYD-Pipe-Dreams-Design.jpg"
-  },
-  {
-    "title": "ewkuks-Roshi-Father-Deck2-smaller.jpg",
-    "image": "../images/gallery/ewkuks-Roshi-Father-Deck2-smaller.jpg"
-  },
-  {
-    "title": "Kali-Pop-Poster-HW.jpg",
-    "image": "../images/gallery/Kali-Pop-Poster-HW.jpg"
-  },
-  {
-    "title": "ewkuks-Roshi-Mother-Deck-smaller.jpg",
-    "image": "../images/gallery/ewkuks-Roshi-Mother-Deck-smaller.jpg"
-  },
-  {
-    "title": "Lady-Guyver.JPG",
-    "image": "../images/gallery/Lady-Guyver.JPG"
-  },
-  {
-    "title": "ewkuks-Roshi-Mother-Deck2-smaller.jpg",
-    "image": "../images/gallery/ewkuks-Roshi-Mother-Deck2-smaller.jpg"
-  },
-  {
-    "title": "Little-Witch-color-small.jpg",
-    "image": "../images/gallery/Little-Witch-color-small.jpg"
-  },
-  {
-    "title": "intersection-observer.jpg",
-    "image": "../images/gallery/intersection-observer.jpg"
-  },
-  {
-    "title": "Lu-Gen-Voivode-Sticker-product-image.jpg",
-    "image": "../images/gallery/Lu-Gen-Voivode-Sticker-product-image.jpg"
-  },
-  {
-    "title": "lady-guyver-product-image.jpg",
-    "image": "../images/gallery/lady-guyver-product-image.jpg"
-  },
-  {
-    "title": "Numb.jpg",
-    "image": "../images/gallery/Numb.jpg"
-  },
-  {
-    "title": "lu-gen-voivode-IG.jpg",
-    "image": "../images/gallery/lu-gen-voivode-IG.jpg"
-  },
-  {
-    "title": "Paper-Hearts-IG-crop.jpg",
-    "image": "../images/gallery/Paper-Hearts-IG-crop.jpg"
-  },
-  {
-    "title": "page-transitions.jpg",
-    "image": "../images/gallery/page-transitions.jpg"
-  },
-  {
-    "title": "Purple-Crayon-cropped.jpg",
-    "image": "../images/gallery/Purple-Crayon-cropped.jpg"
-  },
-  {
-    "title": "react-context.jpg",
-    "image": "../images/gallery/react-context.jpg"
-  },
-  {
-    "title": "Quickie-for-Vans-Anniversary-edit.jpg",
-    "image": "../images/gallery/Quickie-for-Vans-Anniversary-edit.jpg"
-  },
-  {
-    "title": "truck-side-2.jpg",
-    "image": "../images/gallery/truck-side-2.jpg"
-  },
-  {
-    "title": "Roshi-Batbutt-Supermarket.jpg",
-    "image": "../images/gallery/Roshi-Batbutt-Supermarket.jpg"
-  },
-  {
-    "title": "ugly-ducklings.JPG",
-    "image": "../images/gallery/ugly-ducklings.JPG"
-  }]
+    {
+      "title": "Taste-of-Home-Graff-1.jpg",
+      "image": "../images/gallery/Taste-of-Home-Graff-1.jpg"
+    },
+    {
+      "title": "4FAD7B94-874F-41C2-981D-931CF5688F45.JPG",
+      "image": "../images/gallery/4FAD7B94-874F-41C2-981D-931CF5688F45.JPG"
+    },
+    {
+      "title": "Ace-of-Hearts-Mural-2.jpg",
+      "image": "../images/gallery/Ace-of-Hearts-Mural-2.jpg"
+    },
+    {
+      "title": "Action-Reaction.JPG",
+      "image": "../images/gallery/Action-Reaction.JPG"
+    },
+    {
+      "title": "AF90B14C-2AE7-4FE1-8328-A03077492B3B.JPG",
+      "image": "../images/gallery/AF90B14C-2AE7-4FE1-8328-A03077492B3B.JPG"
+    },
+    {
+      "title": "Amsterdam-quickie.PNG",
+      "image": "../images/gallery/Amsterdam-quickie.PNG"
+    },
+    {
+      "title": "D07BC35C-9DB2-4634-BA10-CD521920F764.JPG",
+      "image": "../images/gallery/D07BC35C-9DB2-4634-BA10-CD521920F764.JPG"
+    },
+    {
+      "title": "D68D9ED5-F86A-49AA-94AA-FD24380BAEAD.JPG",
+      "image": "../images/gallery/D68D9ED5-F86A-49AA-94AA-FD24380BAEAD.JPG"
+    },
+    {
+      "title": "Donuttery-Mural-side-view.JPG",
+      "image": "../images/gallery/Donuttery-Mural-side-view.JPG"
+    },
+    {
+      "title": "F83BAB33-9DCD-4841-8E3F-282BDF7F5C85.JPG",
+      "image": "../images/gallery/F83BAB33-9DCD-4841-8E3F-282BDF7F5C85.JPG"
+    },
+    {
+      "title": "GCS-livepaint-9.2019.JPG",
+      "image": "../images/gallery/GCS-livepaint-9.2019.JPG"
+    },
+    {
+      "title": "HW-2-side-view.JPG",
+      "image": "../images/gallery/HW-2-side-view.JPG"
+    },
+    {
+      "title": "IMG_2106.jpg",
+      "image": "../images/gallery/IMG_2106.jpg"
+    },
+    {
+      "title": "IMG_2112.jpg",
+      "image": "../images/gallery/IMG_2112.jpg"
+    },
+    {
+      "title": "IMG_2113.jpg",
+      "image": "../images/gallery/IMG_2113.jpg"
+    },
+    {
+      "title": "IMG_2117.jpg",
+      "image": "../images/gallery/IMG_2117.jpg"
+    },
+    {
+      "title": "IMG_2244.jpg",
+      "image": "../images/gallery/IMG_2244.jpg"
+    },
+    {
+      "title": "IMG_2246.jpg",
+      "image": "../images/gallery/IMG_2246.jpg"
+    },
+    {
+      "title": "IMG_2250.jpg",
+      "image": "../images/gallery/IMG_2250.jpg"
+    },
+    {
+      "title": "IMG_2545.JPEG",
+      "image": "../images/gallery/IMG_2545.JPEG"
+    },
+    {
+      "title": "Long-Beach-collab.JPG",
+      "image": "../images/gallery/Long-Beach-collab.JPG"
+    },
+    {
+      "title": "MF-DOOM-livepaint.jpg",
+      "image": "../images/gallery/MF-DOOM-livepaint.jpg"
+    },
+    {
+      "title": "Roshi-HW-1.jpg",
+      "image": "../images/gallery/Roshi-HW-1.jpg"
+    },
+    {
+      "title": "Roshi-Icon-Wall.jpg",
+      "image": "../images/gallery/Roshi-Icon-Wall.jpg"
+    },
+    {
+      "title": "SC-warmup-3.JPG",
+      "image": "../images/gallery/SC-warmup-3.JPG"
+    },
+    {
+      "title": "Sea-Clearly-Mural-2020.JPG",
+      "image": "../images/gallery/Sea-Clearly-Mural-2020.JPG"
+    },
+    {
+      "title": "Swan-Armor.jpg",
+      "image": "../images/gallery/Swan-Armor.jpg"
+    },
+    {
+      "title": "truck -side-2.jpg",
+      "image": "../images/gallery/truck -side-2.jpg"
+    },
+    {
+      "title": "Truck-side-1.jpg",
+      "image": "../images/gallery/Truck-side-1.jpg"
+    },
+    {
+      "title": "Vienna-Tunnel-Graff-1.jpg",
+      "image": "../images/gallery/Vienna-Tunnel-Graff-1.jpg"
+    },
+    {
+      "title": "Vienna-Western-Graff.jpg",
+      "image": "../images/gallery/Vienna-Western-Graff.jpg"
+    }
+  ]
 }
 
 
