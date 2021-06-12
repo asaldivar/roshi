@@ -7,7 +7,6 @@ import { graphql } from 'gatsby';
 const Index = ({ data }) => (
   <Layout>
     <Gallery items={data.homeJson.gallery} />
-    <div style={{ height: '50vh' }} />
   </Layout>
 );
 
